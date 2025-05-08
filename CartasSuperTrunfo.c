@@ -5,7 +5,7 @@
 int main(){
     printf("Desafio Super Trunfo!\n");
 
-    // Declarando variáveis e atribuindo os respectivos dados da Carta 1.
+    // Declarando variáveis e atribuindo os respectivos dados à Carta 1.
     
     char estado = 'A';
     char codigo[20] = "A01";
@@ -38,7 +38,7 @@ int main(){
     printf("Pontos:\n ", pontos);
     scanf("%d", &pontos);
 
-    //Imprimindo os dados referentes a primeira Carta 1.
+    //Imprimindo os dados referentes à Carta 1.
     
     printf("Carta 1\n Estado: %c\n", estado);
     
@@ -53,7 +53,6 @@ int main(){
     printf("PIB: %f bilhoes de reais\n", pib);
     
     printf("Número de Pontos Turísticos: %d\n", pontos);
-
 
     return 0;
 
