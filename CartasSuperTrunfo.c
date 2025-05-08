@@ -59,7 +59,7 @@ int main(){
     // Declarando variáveis e atribuindo seus respectivos valores que estarão contidos nos dados da Carta 2.
     
     char estado2 = 'B';
-    char codigo2[20] = "B01";
+    char codigo2[20] = "B02";
     char nomedacidade2[50] = "Rio_de_Janeiro";
     int populacao2 =  6748000;
     float area2 = 1200.25;
